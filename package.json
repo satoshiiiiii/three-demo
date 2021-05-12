@@ -80,7 +80,7 @@
 		"jquery-match-height": "^0.7.2",
 		"lodash": "^4.17.4",
 		"remodal": "^1.1.1",
-		"swiper": "4.4.5",
+		"swiper": "6.5.1",
 		"three": "^0.107.0",
 		"three-orbitcontrols": "^2.108.1"
 	},
